@@ -101,18 +101,20 @@ a {
 
 /* our team */
 .team-title {
-  font-family: "Roboto", sans-serif;
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
 }
 
-.team-list {
+
+.team{
   background: #f4f4fd;
 }
+.team-list{background: #FFFFFF}
 
 .team-subtitle {
   font-family: "Roboto", sans-serif;
@@ -135,10 +137,10 @@ a {
 
 /* ourportfolio */
 .port-title {
-  font-family: "Roboto", sans-serif;
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -170,7 +172,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
