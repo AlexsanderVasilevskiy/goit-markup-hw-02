@@ -53,3 +53,42 @@ a {
 }
 
 /* class main */
+.main-title{background: #2e2f42;}
+.main-title-text{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;}
+
+    /* button */
+    .button{background: #4d5ae5;}
+    .button-text{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;}
+
+
+
+
+
+
+/* footer */
+.page-footer{background: #2e2f42;}
+.logo-footer{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;}
+    .footer-logo-part{color: #f4f4fd}
+    .footer-text{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;}
